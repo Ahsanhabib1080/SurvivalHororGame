@@ -2,17 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.27",
 	"Category": "",
-	"Description": "",
-	"Plugins": [
-		{
-			"Name": "MissionObjectives",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/8e224992c9414507b16c97f6793681c0"
-		},
-		{
-			"Name": "RestartEditor",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/a00eb1e478ae4a8fb655aa22f9125b07"
-		}
-	]
+	"Description": ""
 }
